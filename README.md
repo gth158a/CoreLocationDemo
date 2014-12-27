@@ -1,0 +1,4 @@
+CoreLocationDemo
+================
+
+iOS setup
